@@ -63,3 +63,4 @@ test-results/
 
 # Sistemas SO
 Thumbs.db
+.env*.local
